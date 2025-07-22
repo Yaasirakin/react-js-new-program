@@ -55,6 +55,7 @@ const Section3 = () => {
             className={`rounded-full border font-fraunces border-grey w-[60px] px-2 py-1 flex justify-center dark:bg-[#333333] dark:text-white items-center text-sm ${
               darkMode ? 'bg-[#212636] text-white' : 'bg-white text-black'
             }`}
+            
           >
             Active
           </button>
