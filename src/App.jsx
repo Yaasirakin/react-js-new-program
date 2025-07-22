@@ -1,12 +1,15 @@
+import Section1 from "./component/section1";
 
+import Section3 from "./Component/Section3";
 
-function App() {
+const App = () => {
 
   return (
     <>
-      <p className='bg-black text-white'>
-        This is good
-      </p>
+      
+      <Section1/>
+      
+      <Section3/>
     </>
   )
 }
