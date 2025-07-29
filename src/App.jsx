@@ -1,6 +1,6 @@
-import Section1 from "./component/section1";
+import Section1 from "./components/section1";
 
-import Section3 from "./Component/Section3";
+import Section3 from "./components/Section3";
 
 const App = () => {
 
